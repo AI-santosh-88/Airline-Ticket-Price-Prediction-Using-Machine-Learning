@@ -47,6 +47,13 @@
 #### 7.warnings: 
 * to ignore warnings.
 
+## Summary:
+* This project successfully developed a machine learning model to predict airline ticket prices. The process involved thorough data cleaning and preprocessing, extensive exploratory data 
+  analysis, and the evaluation of multiple regression models. The Extra Trees Regressor emerged as the top-performing model, demonstrating high accuracy in predicting ticket prices. The 
+  project provides valuable insights into the factors influencing airline ticket prices and showcases the potential of machine learning in price prediction. The visualizations and statistical 
+  analysis help in understanding the relationships between different variables and the ticket prices. The project can be further enhanced by deploying the model for real-time predictions and 
+  incorporating additional features for improved accuracy.
+
 
 
 

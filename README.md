@@ -27,18 +27,25 @@
 * Selecting the best model based on the evaluation metrics.
 * Visualizing the actual vs predicted prices.
 
-#### Model Deployment (Potential Future Step):
+#### 5.Model Deployment (Potential Future Step):
 * Saving the trained model for future use.
 * Developing a user interface or API for price prediction.
 
 ## Libraries Used:
-1.pandas: For data manipulation and analysis.
-2.numpy: For numerical computations.
-3.matplotlib: For creating static, interactive, and animated visualizations.1   
-4.seaborn: For enhanced data visualization.
-5.scikit-learn (sklearn): For machine learning algorithms, preprocessing, and model evaluation.
-6.xgboost: For gradient boosting framework.
-7.warnings: to ignore warnings.
+#### 1.pandas:
+* For data manipulation and analysis.
+#### 2.numpy: 
+* For numerical computations.
+#### 3.matplotlib: 
+* For creating static, interactive, and animated visualizations.1   
+#### 4.seaborn: 
+* For enhanced data visualization.
+#### 5.scikit-learn (sklearn): 
+* For machine learning algorithms, preprocessing, and model evaluation.
+#### 6.xgboost: 
+* For gradient boosting framework.
+#### 7.warnings: 
+* to ignore warnings.
 
 
 
